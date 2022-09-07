@@ -4,7 +4,7 @@
 
 ## 代办事项
 
-![todolist](..\photos\todolist.png)
+<img src="..\photos\todolist.png" alt="todolist" style="zoom:50%;" />
 
 由notion api开发的todolist。每个待办项都有名称、ddl（deadline）、star和importance level四个属性。
 
@@ -28,7 +28,7 @@
   - star: type: Select; Options: star、unstar
   - importance: type: Select; Options: 5、4、3、2、1
 
-<img src="D:\WorkingFiles\epd\photos\notion_properties.png" alt="notion_properties" style="zoom:50%;" />
+<img src="..\photos\notion_properties.png" alt="notion_properties" style="zoom:50%;" />
 
 - 获取个人API的令牌（Authorization）
   - [打开这个网页（My Integrations)](https://www.notion.so/my-integrations)
@@ -50,7 +50,7 @@
 
 ## 天气
 
-![weather](..\photos\weather.png)
+<img src="..\photos\weather.png" alt="weather" style="zoom:100%;" />
 
 由高德api通过ip地址获取城市信息，通过和风天气api获取该城市的具体实时天气。
 
@@ -141,7 +141,7 @@ classlist = {
 
 ## 底栏
 
-![under](..\photos\under.png)
+<img src="..\photos\under.png" alt="under" style="zoom:100%;" />
 
 展示当前联网情况、地理位置、阳历、农历、星期、时间
 
