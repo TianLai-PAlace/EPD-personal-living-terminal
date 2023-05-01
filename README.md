@@ -1,5 +1,7 @@
 # EPD personal living terminal
 
+[![Security Status](https://www.murphysec.com/badge/TianLai-PAlace/EPD-personal-living-terminal.svg)](https://www.murphysec.com/p/TianLai-PAlace/EPD-personal-living-terminal)
+
 # 这是你的个人多彩生活终端
 
 <img src=".\photos\network.png" style="zoom:40%;" />
