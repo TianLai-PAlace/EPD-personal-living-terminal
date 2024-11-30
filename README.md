@@ -1,6 +1,6 @@
 # EPD personal living terminal
 
-[![Security Status](https://www.murphysec.com/badge/TianLai-PAlace/EPD-personal-living-terminal.svg)](https://www.murphysec.com/p/TianLai-PAlace/EPD-personal-living-terminal)
+**进入[代码](.\代码) 查看具体功能内容**
 
 # 这是你的个人多彩生活终端
 
