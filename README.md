@@ -1,6 +1,6 @@
 # EPD personal living terminal
 
-** [查看具体功能内容](##天气)**
+**[查看具体功能内容](https://github.com/TianLai-PAlace/EPD-personal-living-terminal/blob/main/README.md#%E5%A4%A9%E6%B0%94)**
 
 # 这是你的个人多彩生活终端
 
